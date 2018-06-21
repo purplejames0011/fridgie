@@ -1,0 +1,3 @@
+# fridgie
+
+initial setup empty
